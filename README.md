@@ -1,29 +1,14 @@
-# .
+# Projeto Disney + Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Bem-vindo ao Projeto Disney, uma aplicação desenvolvida com Vue.js que demonstra a utilização de componetização.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Visão Geral
+Este projeto é uma aplicação Vue.js que apresenta um catálogo de filmes da Disney. Utiliza a componetização para criar uma estrutura modular e reutilizável, facilitando a manutenção do código.
 
-## Customize configuration
+### Link do Deploy:
+https://primevideo-orcin.vercel.app/
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Figma: 
+https://www.figma.com/design/kt8bFJfatBgb56Mnf2GnaN/desafio?node-id=1-2&node-type=FRAME&t=k8W6a0J5EseMNjMT-0
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
