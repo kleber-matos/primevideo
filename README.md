@@ -1,4 +1,7 @@
-# Projeto Disney + Vue.js
+# Projeto Disney + Vue.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+
+
+###
 
 Bem-vindo ao Projeto Disney, uma aplicação desenvolvida com Vue.js que demonstra a utilização de componetização.
 
@@ -9,6 +12,9 @@ Este projeto é uma aplicação Vue.js que apresenta um catálogo de filmes da D
 ### Link do Deploy:
 https://primevideo-orcin.vercel.app/
 
-## Figma: 
+## Figma: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+
+
+###
 https://www.figma.com/design/kt8bFJfatBgb56Mnf2GnaN/desafio?node-id=1-2&node-type=FRAME&t=k8W6a0J5EseMNjMT-0
 
